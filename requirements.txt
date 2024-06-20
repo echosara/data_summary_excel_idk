@@ -219,7 +219,7 @@ pylint @ file:///C:/ci/pylint_1627536884966/work
 pyls-spyder==0.4.0
 Pympler==1.0.1
 PyNaCl @ file:///C:/ci/pynacl_1607612759007/work
-pyodbc===4.0.0-unsupported
+# pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
 pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
 pyreadline==2.1
